@@ -57,8 +57,6 @@ void operator-= (pair<T1, T2>& lhs, const pair<T1, T2>& rhs)
 	lhs.first -= rhs.first, lhs.second -= rhs.second;
 }
 
-//short Node::level=0;
-
 class dame
 {
 public:
